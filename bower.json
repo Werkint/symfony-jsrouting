@@ -1,0 +1,10 @@
+{
+  "name": "routing",
+  "version": "1.0.0",
+  "moduleType": [
+    "amd"
+  ],
+  "main": [
+    "routing.js"
+  ]
+}
